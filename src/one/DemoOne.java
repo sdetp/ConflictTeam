@@ -6,8 +6,9 @@ public class DemoOne {
 		System.out.println("Cheryl was here");
 		System.out.println("waheeda got it");
 		
-		System.out.println("yari saw it");
-
+		System.out.println("Dayagna needs more practice");
+		
+		
 	}
 
 }
