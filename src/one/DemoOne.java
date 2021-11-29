@@ -12,5 +12,9 @@ public class DemoOne {
 		System.out.println("Keep trying");
 
 	}
+	public static void question(boolean isJavaStillFun) {
+		
+		System.out.println("I think so :)");
+	}
 
 }
