@@ -8,6 +8,9 @@ public class DemoOne {
 		System.out.println("yari also got it");
 		
 		System.out.println("yari saw it");
+		System.out.println(" is github fun?");
+		
+		
 		
 		System.out.println("Keep trying");
 
