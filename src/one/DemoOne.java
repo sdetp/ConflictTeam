@@ -16,6 +16,7 @@ public class DemoOne {
 
 	}
 	public static void question(boolean isJavaStillFun) {
+		System.out.println(" Even if it is not fun it is the need to learn ");
 		
 		System.out.println("I think so :)");
 	}
